@@ -1,0 +1,14 @@
+{
+  "author": "Art Chaidarun",
+  "description": "ES6+Webpack boilerplate for Google Apps Script",
+  "devDependencies": {
+    "babel-core": "6.24.0",
+    "babel-loader": "6.4.1",
+    "babel-preset-es2015": "6.24.0",
+    "babel-register": "6.24.0",
+    "webpack": "2.3.2"
+  },
+  "license": "MIT",
+  "name": "gas-es6-webpack",
+  "version": "1.0.0"
+}
